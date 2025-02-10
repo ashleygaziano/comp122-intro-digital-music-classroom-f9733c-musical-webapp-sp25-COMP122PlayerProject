@@ -1,1 +1,26 @@
-[]
+[ 
+  {
+    "name": "airport_announcement",
+    "file": "samples/airportsound.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "dinging",
+    "file": "samples/anounncementding.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "train",
+    "file": "samples/train.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
